@@ -22,8 +22,6 @@
   <p align="center">
     Virtual Stream Deck for vibe-coding: mobile app turns your phone into a programmable control deck, desktop app receives and executes actions.
     <br />
-    <a href="https://github.com/vvadev/vibe-deck"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/vvadev/vibe-deck">View Repository</a>
     &middot;

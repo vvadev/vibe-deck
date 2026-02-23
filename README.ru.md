@@ -22,8 +22,6 @@
   <p align="center">
     Виртуальный Stream Deck для vibe-coding: мобильное приложение превращает телефон в программируемую панель, десктопное приложение принимает и выполняет действия.
     <br />
-    <a href="https://github.com/vvadev/vibe-deck"><strong>Документация и код »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/vvadev/vibe-deck">Открыть репозиторий</a>
     &middot;
