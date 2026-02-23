@@ -205,15 +205,15 @@ Project Link: [https://github.com/vvadev/vibe-deck](https://github.com/vvadev/vi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/vvadev/vide-deck.svg?style=for-the-badge
-[contributors-url]: https://github.com/vvadev/vide-deck/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vvadev/vide-deck.svg?style=for-the-badge
-[forks-url]: https://github.com/vvadev/vide-deck/network/members
-[stars-shield]: https://img.shields.io/github/stars/vvadev/vide-deck.svg?style=for-the-badge
-[stars-url]: https://github.com/vvadev/vide-deck/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vvadev/vide-deck.svg?style=for-the-badge
-[issues-url]: https://github.com/vvadev/vide-deck/issues
-[license-shield]: https://img.shields.io/github/license/vvadev/vide-deck.svg?style=for-the-badge
-[license-url]: https://github.com/vvadev/vide-deck/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/vvadev/vibe-deck.svg?style=for-the-badge
+[contributors-url]: https://github.com/vvadev/vibe-deck/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vvadev/vibe-deck.svg?style=for-the-badge
+[forks-url]: https://github.com/vvadev/vibe-deck/network/members
+[stars-shield]: https://img.shields.io/github/stars/vvadev/vibe-deck.svg?style=for-the-badge
+[stars-url]: https://github.com/vvadev/vibe-deck/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vvadev/vibe-deck.svg?style=for-the-badge
+[issues-url]: https://github.com/vvadev/vibe-deck/issues
+[license-shield]: https://img.shields.io/github/license/vvadev/vibe-deck.svg?style=for-the-badge
+[license-url]: https://github.com/vvadev/vibe-deck/blob/main/LICENSE
 [github-shield]: https://img.shields.io/badge/GitHub-vvadev-181717?style=for-the-badge&logo=github
 [github-url]: https://github.com/vvadev
